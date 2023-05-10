@@ -7,7 +7,7 @@
 
 
 
-string[] array1 = new string[] {"11111", "222", "33", "qwer","heh", "tak", "array"};
+string[] array1 = new string[] {"11111", "222", "33", "qwer","heh", "tak", "array", "-=-"};
 string[] array2 = new string[array1.Length];
 
 void StringArray(string[] array1, string[] array2)
